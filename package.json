@@ -11,7 +11,7 @@
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
     "@weknow/react-bubble-chart-d3": "^1.0.12",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bulma": "^0.8.0",
     "chart.js": "^2.9.3",
     "chartjs-color": "^2.4.1",
